@@ -2,4 +2,4 @@
 
 ### Day 0: 27/05/2020
 
-  DELETE ME WHEN YOU START TOMORROW 
+  Start tomorrow as finding this 20 mins before bed and starting then would be silly.
