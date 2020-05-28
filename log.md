@@ -4,6 +4,6 @@
 
   Start tomorrow as finding this 20 mins before bed and starting then would be silly.
   
-### Actual Day 0!
+### Actual Day 0! 28/5/2020
   
   Base page structure built and navbar added well over 2 hours put in over a few chunks due to kids.   
