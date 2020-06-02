@@ -21,3 +21,7 @@ Restructure of Tutorials running through Boostrap4
 ### Day3 ! 31/5/2020 
 
 Bootstrap site built and laid out ongoing styling. 
+
+### Day 4 01/6/2020
+
+Bootstrap done! On with dat JS! 
