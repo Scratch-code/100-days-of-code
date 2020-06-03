@@ -25,3 +25,8 @@ Bootstrap site built and laid out ongoing styling.
 ### Day 4 01/6/2020
 
 Bootstrap done! On with dat JS! 
+
+### Day 5 03/6/2020
+
+Missed a day somewhere.. damn kids. mor entry level JS const varis and some function stuff
+
